@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xnat:Subject ID="NITRC_IR_S03553" project="nki_rockland" label="1264721" xmlns:nki="http://claymore.rfmh.org/assessments" xmlns:arc="http://nrg.wustl.edu/arc" xmlns:val="http://nrg.wustl.edu/val" xmlns:pipe="http://nrg.wustl.edu/pipe" xmlns:nitrc="http://www.nitrc.org/ir" xmlns:ir="http://www.nitrc.org/ir" xmlns:fs="http://www.nitrc.org/ir" xmlns:wrk="http://nrg.wustl.edu/workflow" xmlns:scr="http://nrg.wustl.edu/scr" xmlns:abide="http://www.nitrc.org/projects/abide" xmlns:xdat="http://nrg.wustl.edu/security" xmlns:cat="http://nrg.wustl.edu/catalog" xmlns:prov="http://www.nbirn.net/prov" xmlns:xnat="http://nrg.wustl.edu/xnat" xmlns:xnat_a="http://nrg.wustl.edu/xnat_assessments" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/NIAK.xsd http://nrg.wustl.edu/workflow https://www.nitrc.org/ir/schemas/workflow.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/ANTS.xsd http://nrg.wustl.edu/security https://www.nitrc.org/ir/schemas/security.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/candi_share.xsd http://www.nitrc.org/projects/abide https://www.nitrc.org/ir/schemas/ados.xsd http://nrg.wustl.edu/arc https://www.nitrc.org/ir/schemas/project.xsd http://www.nbirn.net/prov https://www.nitrc.org/ir/schemas/birnprov.xsd http://nrg.wustl.edu/val https://www.nitrc.org/ir/schemas/protocolValidation.xsd http://nrg.wustl.edu/pipe https://www.nitrc.org/ir/schemas/repository.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/PCPQA.xsd http://nrg.wustl.edu/scr https://www.nitrc.org/ir/schemas/screeningAssessment.xsd http://nrg.wustl.edu/catalog https://www.nitrc.org/ir/schemas/catalog.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/CIVET.xsd http://claymore.rfmh.org/assessments https://www.nitrc.org/ir/schemas/nki.xsd http://www.nitrc.org/projects/abide https://www.nitrc.org/ir/schemas/vineland.xsd http://www.nitrc.org/projects/abide https://www.nitrc.org/ir/schemas/wisc.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/CPAC.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/fs.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/CCS.xsd http://www.nitrc.org/projects/abide https://www.nitrc.org/ir/schemas/srs.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/CPACMinimal.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/manQA.xsd http://www.nitrc.org/projects/abide https://www.nitrc.org/ir/schemas/adir.xsd http://www.nitrc.org/ir https://www.nitrc.org/ir/schemas/DPARSF.xsd http://nrg.wustl.edu/xnat_assessments https://www.nitrc.org/ir/schemas/assessments.xsd http://nrg.wustl.edu/xnat https://www.nitrc.org/ir/schemas/xnat.xsd">
+<xnat:demographics xsi:type="xnat:demographicData">
+<xnat:age>31</xnat:age>
+<xnat:gender>female</xnat:gender>
+<xnat:handedness>right</xnat:handedness>
+<xnat:race>African American</xnat:race>
+<xnat:ethnicity>Not Hispanic or Latino</xnat:ethnicity>
+<xnat:weight>70.3</xnat:weight>
+<xnat:height>172.72</xnat:height>
+</xnat:demographics>
+<xnat:fields>
+<xnat:field name="rsBMI">23.6</xnat:field>
+<xnat:field name="rsCurrDx1">0</xnat:field>
+<xnat:field name="rsCurrDx2">0</xnat:field>
+<xnat:field name="rsCurrDx3">0</xnat:field>
+<xnat:field name="rsDiastolic">58</xnat:field>
+<xnat:field name="rsFamilyHx">0</xnat:field>
+<xnat:field name="rsHip">104.14</xnat:field>
+<xnat:field name="rsLanguage">1</xnat:field>
+<xnat:field name="rsLicense">1</xnat:field>
+<xnat:field name="rsLifeDx1">0</xnat:field>
+<xnat:field name="rsLifeDx2">0</xnat:field>
+<xnat:field name="rsLifeDx3">0</xnat:field>
+<xnat:field name="rsMaternalAge">30</xnat:field>
+<xnat:field name="rsParentSES">29.5</xnat:field>
+<xnat:field name="rsPaternalAge">28</xnat:field>
+<xnat:field name="rsPulse">62</xnat:field>
+<xnat:field name="rsSystolic">102</xnat:field>
+<xnat:field name="rsVolunteerSES">42</xnat:field>
+<xnat:field name="rsWaist">83.82</xnat:field>
+</xnat:fields>
+<xnat:experiments>
+<xnat:experiment ID="NITRC_IR_E04955" project="nki_rockland" label="ASR_1264721_1" xsi:type="nki:rsAdultSelfReportData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:attentionProblemsT_Score>56</nki:attentionProblemsT_Score>
+<nki:withdrawnT_Score>59</nki:withdrawnT_Score>
+<nki:thoughtProblemsTotal>1</nki:thoughtProblemsTotal>
+<nki:externalizingProbsT_Score>45</nki:externalizingProbsT_Score>
+<nki:aggressiveBehaviorTotal>4</nki:aggressiveBehaviorTotal>
+<nki:somaticComplaintsT_Score>50</nki:somaticComplaintsT_Score>
+<nki:totalProblemsTotalScore>31</nki:totalProblemsTotalScore>
+<nki:thoughtProblemsT_Score>50</nki:thoughtProblemsT_Score>
+<nki:internalizingProbsTotal>8</nki:internalizingProbsTotal>
+<nki:intrusiveTotal>1</nki:intrusiveTotal>
+<nki:withdrawnTotal>4</nki:withdrawnTotal>
+<nki:internalizingProbsT_Score>46</nki:internalizingProbsT_Score>
+<nki:externalizingProbsTotal>5</nki:externalizingProbsTotal>
+<nki:anxiousDepressedT_Score>50</nki:anxiousDepressedT_Score>
+<nki:ruleBreakingBehaviorT_Score>50</nki:ruleBreakingBehaviorT_Score>
+<nki:attentionProblemsTotal>7</nki:attentionProblemsTotal>
+<nki:ruleBreakingBehaviorTotal>0</nki:ruleBreakingBehaviorTotal>
+<nki:totalProblemsT_Score>47</nki:totalProblemsT_Score>
+<nki:anxiousDepressedTotal>4</nki:anxiousDepressedTotal>
+<nki:aggressiveBehaviorT_Score>52</nki:aggressiveBehaviorT_Score>
+<nki:intrusiveT_Score>50</nki:intrusiveT_Score>
+<nki:somaticComplaintsTotal>0</nki:somaticComplaintsTotal>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04956" project="nki_rockland" label="ASSQ_1264721_1" xsi:type="nki:rsAutismSpectrumScreenData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:totalScore>7</nki:totalScore>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04957" project="nki_rockland" label="BDI_1264721_1" xsi:type="nki:rsBeckDepressionData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:totalScore>6</nki:totalScore>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04958" project="nki_rockland" label="CARE_1264721_1" xsi:type="nki:rsCognitiveAppraisalRiskData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:highRiskSports_Freq>0</nki:highRiskSports_Freq>
+<nki:drugs_N>6.7</nki:drugs_N>
+<nki:aggrIllegalBhv_P>1.1</nki:aggrIllegalBhv_P>
+<nki:drugs_Freq>0</nki:drugs_Freq>
+<nki:aggrIllegalBhv_N>6.0</nki:aggrIllegalBhv_N>
+<nki:highRiskSports_P>4.3</nki:highRiskSports_P>
+<nki:heavyDrinking_Freq>0</nki:heavyDrinking_Freq>
+<nki:riskySex_N>6.3</nki:riskySex_N>
+<nki:aggrIllegalBhv_Freq>0.0</nki:aggrIllegalBhv_Freq>
+<nki:drugs_P>1.0</nki:drugs_P>
+<nki:riskySex_Freq>1</nki:riskySex_Freq>
+<nki:riskySex_P>1.2</nki:riskySex_P>
+<nki:heavyDrinking_N>6.3</nki:heavyDrinking_N>
+<nki:irrespAcadWrk_Bhv_Freq>6</nki:irrespAcadWrk_Bhv_Freq>
+<nki:irrespAcadWrk_Bhv_P>2.2</nki:irrespAcadWrk_Bhv_P>
+<nki:heavyDrinking_P>1.0</nki:heavyDrinking_P>
+<nki:irrespAcadWrk_Bhv_N>4.6</nki:irrespAcadWrk_Bhv_N>
+<nki:highRiskSports_N>4.3</nki:highRiskSports_N>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04959" project="nki_rockland" label="DKEFS_1264721_1" xsi:type="nki:rsExecutiveFunctioningData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:verb_LetterFluency>45</nki:verb_LetterFluency>
+<nki:sorting_cond1_freeSortDescrpt_scaled>8</nki:sorting_cond1_freeSortDescrpt_scaled>
+<nki:totalQuestAsked_scaled>11</nki:totalQuestAsked_scaled>
+<nki:colorWord_wordNaming>22</nki:colorWord_wordNaming>
+<nki:design_fluency>30</nki:design_fluency>
+<nki:totalQuestAsked>26</nki:totalQuestAsked>
+<nki:initialAbstract>18</nki:initialAbstract>
+<nki:colorWord_colorNaming_scaled>9</nki:colorWord_colorNaming_scaled>
+<nki:design_switching_scaled>10</nki:design_switching_scaled>
+<nki:verb_CategoryFluency_scaled>13</nki:verb_CategoryFluency_scaled>
+<nki:design_prctAccuracy>100</nki:design_prctAccuracy>
+<nki:verb_CategorySwitch_scaled>11</nki:verb_CategorySwitch_scaled>
+<nki:totalWeightAchieveScore_scaled>12</nki:totalWeightAchieveScore_scaled>
+<nki:colorWord_inhibition_scaled>11</nki:colorWord_inhibition_scaled>
+<nki:colorWord_inhibition>48</nki:colorWord_inhibition>
+<nki:verb_CategorySwitch_switchAcc>14</nki:verb_CategorySwitch_switchAcc>
+<nki:sorting_cond1_confirmSorts>8</nki:sorting_cond1_confirmSorts>
+<nki:design_fluency_scaled>10</nki:design_fluency_scaled>
+<nki:design_prctAccuracy_scaled>13</nki:design_prctAccuracy_scaled>
+<nki:design_filledDots_scaled>10</nki:design_filledDots_scaled>
+<nki:design_filledDots>10</nki:design_filledDots>
+<nki:sorting_cond1_confirmSorts_scaled>8</nki:sorting_cond1_confirmSorts_scaled>
+<nki:verb_CategoryFluency>47</nki:verb_CategoryFluency>
+<nki:design_emptyDots_scaled>10</nki:design_emptyDots_scaled>
+<nki:design_switching>8</nki:design_switching>
+<nki:colorWord_colorNaming>29</nki:colorWord_colorNaming>
+<nki:verb_CategorySwitch>15</nki:verb_CategorySwitch>
+<nki:sorting_cond1_sortRecogDescrpt_scaled>8</nki:sorting_cond1_sortRecogDescrpt_scaled>
+<nki:sorting_cond1_freeSortDescrpt>29</nki:sorting_cond1_freeSortDescrpt>
+<nki:colorWord_wordNaming_scaled>10</nki:colorWord_wordNaming_scaled>
+<nki:totalWeightAchieveScore>16</nki:totalWeightAchieveScore>
+<nki:design_emptyDots>11</nki:design_emptyDots>
+<nki:initialAbstract_scaled>7</nki:initialAbstract_scaled>
+<nki:verb_LetterFluency_scaled>12</nki:verb_LetterFluency_scaled>
+<nki:verb_CategorySwitch_switchAcc_scaled>12</nki:verb_CategorySwitch_switchAcc_scaled>
+<nki:sorting_cond1_sortRecogDescrpt>33</nki:sorting_cond1_sortRecogDescrpt>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04960" project="nki_rockland" label="FAMILY_1264721_1" xsi:type="nki:rsFamilyData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:probandID>1</nki:probandID>
+<nki:relatToProband>1</nki:relatToProband>
+<nki:familyID>431</nki:familyID>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04961" project="nki_rockland" label="FSTRM_A_1264721_1" xsi:type="nki:rsFagerstromData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:dependenceLevel>1</nki:dependenceLevel>
+<nki:totalScore>0</nki:totalScore>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04962" project="nki_rockland" label="LABS_1264721_1" xsi:type="nki:rsLabsData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:triglycerides>54</nki:triglycerides>
+<nki:cholesterol>200</nki:cholesterol>
+<nki:sodium>145</nki:sodium>
+<nki:potassium>4.5</nki:potassium>
+<nki:hdl>50</nki:hdl>
+<nki:glucose>86</nki:glucose>
+<nki:bloodUreaNitrogen>9</nki:bloodUreaNitrogen>
+<nki:creatinine>0.7</nki:creatinine>
+<nki:cholesterolRatio>4</nki:cholesterolRatio>
+<nki:carbonDioxide>24</nki:carbonDioxide>
+<nki:ldl>139</nki:ldl>
+<nki:fasting>1</nki:fasting>
+<nki:chloride>108</nki:chloride>
+<nki:genetics>1</nki:genetics>
+<nki:insulin>3.2</nki:insulin>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04963" project="nki_rockland" label="OASR_1264721_1" xsi:type="nki:rsOlderAdultSelfReportData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04964" project="nki_rockland" label="RBSR_1264721_1" xsi:type="nki:rsRepetiviteBehaviorScaleData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:restricted>0</nki:restricted>
+<nki:totalProbs>1</nki:totalProbs>
+<nki:stereotyped>0</nki:stereotyped>
+<nki:ritualistic>0</nki:ritualistic>
+<nki:compulsive>0</nki:compulsive>
+<nki:sameness>0</nki:sameness>
+<nki:selfInjurious>0</nki:selfInjurious>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04965" project="nki_rockland" label="SIXMIN_1264721_1" xsi:type="nki:rsSixMinWalkData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04966" project="nki_rockland" label="SRS_1264721_1" xsi:type="nki:rsSocialResponsivenessScaleData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:reliability>1</nki:reliability>
+<nki:socAwareness_T>48</nki:socAwareness_T>
+<nki:socMotivation_T>62</nki:socMotivation_T>
+<nki:socCognition_T>42</nki:socCognition_T>
+<nki:totalScore>32</nki:totalScore>
+<nki:autMannerisms_T>41</nki:autMannerisms_T>
+<nki:socAwareness>5</nki:socAwareness>
+<nki:socCognition>2</nki:socCognition>
+<nki:totalScore_T>52</nki:totalScore_T>
+<nki:socMotivation>10</nki:socMotivation>
+<nki:communication_T>59</nki:communication_T>
+<nki:autMannerisms>0</nki:autMannerisms>
+<nki:communication>15</nki:communication>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04967" project="nki_rockland" label="STAI_1264721_1" xsi:type="nki:rsStateTraitAnxietyData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:traitAnx>37</nki:traitAnx>
+<nki:stateAnx>58</nki:stateAnx>
+<nki:traitAnx_prctl>61</nki:traitAnx_prctl>
+<nki:stateAnx_std>70</nki:stateAnx_std>
+<nki:stateAnx_prctl>95</nki:stateAnx_prctl>
+<nki:traitAnx_std>51</nki:traitAnx_std>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04968" project="nki_rockland" label="TFEQ_1264721_1" xsi:type="nki:rsThreeFactorEatingData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:susceptToHunger>4</nki:susceptToHunger>
+<nki:disinhibControl>1</nki:disinhibControl>
+<nki:cogControlEating>8</nki:cogControlEating>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04969" project="nki_rockland" label="TIC_1264721_1" xsi:type="nki:rsTicChecklistData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:simpleVocal_year>0</nki:simpleVocal_year>
+<nki:complexVocal_week>0</nki:complexVocal_week>
+<nki:complexMotor_year>0</nki:complexMotor_year>
+<nki:simpleMotor_week>0</nki:simpleMotor_week>
+<nki:simpleMotor_year>0</nki:simpleMotor_year>
+<nki:complexMotor_week>0</nki:complexMotor_week>
+<nki:simpleVocal_week>0</nki:simpleVocal_week>
+<nki:complexVocal_year>0</nki:complexVocal_year>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04970" project="nki_rockland" label="TSC_A_1264721_1" xsi:type="nki:rsTraumaSymptomAdultData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:anxiety>4</nki:anxiety>
+<nki:totalScore>14</nki:totalScore>
+<nki:depression>6</nki:depression>
+<nki:sexProbs>2</nki:sexProbs>
+<nki:sexAbuseTraumaIndex>1</nki:sexAbuseTraumaIndex>
+<nki:sleepDisturb>3</nki:sleepDisturb>
+<nki:dissociation>1</nki:dissociation>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04971" project="nki_rockland" label="UPPS_1264721_1" xsi:type="nki:rsUppsImpulsivityData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:premeditation>17</nki:premeditation>
+<nki:perserverance>16</nki:perserverance>
+<nki:totalScore>100</nki:totalScore>
+<nki:sensationSeeking>24</nki:sensationSeeking>
+<nki:negUrgency>26</nki:negUrgency>
+<nki:posUrgency>17</nki:posUrgency>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04972" project="nki_rockland" label="WASI_1264721_1" xsi:type="nki:rsWechslerAbbreviatedIqData">
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<nki:blockDesign_T>49</nki:blockDesign_T>
+<nki:performanceIQ>105</nki:performanceIQ>
+<nki:fullScaleIQ>103</nki:fullScaleIQ>
+<nki:vocabulary_T>55</nki:vocabulary_T>
+<nki:similarities_T>45</nki:similarities_T>
+<nki:matrixReasoning_T>58</nki:matrixReasoning_T>
+</xnat:experiment>
+<xnat:experiment ID="NITRC_IR_E04973" project="nki_rockland" label="MR_1264721_41eb" session_type="nki_rockland" modality="MR" UID="1.3.12.2.1107.5.2.32.35390.42255740181559770978849604402" xsi:type="xnat:mrSessionData">
+<xnat:time>10:50:44</xnat:time>
+<xnat:acquisition_site>Nathan Kline Institute for Psychiatric Research</xnat:acquisition_site>
+<xnat:subject_ID>NITRC_IR_S03553</xnat:subject_ID>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:operator>CH</xnat:operator>
+<xnat:scans>
+<xnat:scan ID="1" type="Localizer" UID="1.3.12.2.1107.5.2.32.35390.1181289315234820673189145.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>Localizer</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>7</xnat:frames>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="1.0" y="1.0" z="2.5"/>
+<xnat:fov x="256" y="256"/>
+<xnat:tr>2500.0</xnat:tr>
+<xnat:te>4.2</xnat:te>
+<xnat:ti>1200.0</xnat:ti>
+<xnat:flip>8</xnat:flip>
+<xnat:sequence>tfl2d1</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND\NORM</xnat:imageType>
+<xnat:scanSequence>GR\IR</xnat:scanSequence>
+<xnat:seqVariant>SP\MP</xnat:seqVariant>
+<xnat:scanOptions>IR</xnat:scanOptions>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="2" type="field_map_BOLD" UID="1.3.12.2.1107.5.2.32.35390.206995920440965551312584.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>field_map_BOLD</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>38</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/2/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/2/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="3.0" y="3.0" z="3.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="72" y="72"/>
+<xnat:tr>700.0</xnat:tr>
+<xnat:flip>60</xnat:flip>
+<xnat:sequence>fm2d2r</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND</xnat:imageType>
+<xnat:scanSequence>GR</xnat:scanSequence>
+<xnat:seqVariant>SP</xnat:seqVariant>
+<xnat:acqType>2D</xnat:acqType>
+<xnat:addParam name="MultiEcho_TE1">4.92</xnat:addParam>
+<xnat:addParam name="MultiEcho_TE2">7.38</xnat:addParam>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="3" type="field_map_BOLD" UID="1.3.12.2.1107.5.2.32.35390.337082402541358747041393.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>field_map_BOLD</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>38</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/3/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/3/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="3.0" y="3.0" z="3.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="72" y="72"/>
+<xnat:tr>700.0</xnat:tr>
+<xnat:te>7.38</xnat:te>
+<xnat:flip>60</xnat:flip>
+<xnat:sequence>fm2d2r</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\P\ND</xnat:imageType>
+<xnat:scanSequence>GR</xnat:scanSequence>
+<xnat:seqVariant>SP</xnat:seqVariant>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="4" type="BOLD_resting_CAP" UID="1.3.12.2.1107.5.2.32.35390.690464484345842102018962.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>BOLD_resting_CAP</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>260</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/4/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/4/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="3.0" y="3.0" z="3.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="504" y="504"/>
+<xnat:tr>2500.0</xnat:tr>
+<xnat:te>30.0</xnat:te>
+<xnat:flip>80</xnat:flip>
+<xnat:sequence>epfid2d1_72</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND\MOSAIC</xnat:imageType>
+<xnat:scanSequence>EP</xnat:scanSequence>
+<xnat:seqVariant>SK</xnat:seqVariant>
+<xnat:scanOptions>FS</xnat:scanOptions>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="5" type="T2S_min_TE" UID="1.3.12.2.1107.5.2.32.35390.1890403716297836727522381.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>T2S_min_TE</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>1</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/5/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/5/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="3.0" y="3.0" z="3.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="504" y="504"/>
+<xnat:tr>2500.0</xnat:tr>
+<xnat:te>11.0</xnat:te>
+<xnat:flip>90</xnat:flip>
+<xnat:sequence>epfid2d1_72</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND\MOSAIC</xnat:imageType>
+<xnat:scanSequence>EP</xnat:scanSequence>
+<xnat:seqVariant>SK</xnat:seqVariant>
+<xnat:scanOptions>FS</xnat:scanOptions>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="6" type="field_map_DTI" UID="1.3.12.2.1107.5.2.32.35390.415842539930107221422068.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>field_map_DTI</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>58</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/6/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/6/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="2.0" y="2.0" z="2.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="128" y="128"/>
+<xnat:tr>700.0</xnat:tr>
+<xnat:flip>60</xnat:flip>
+<xnat:sequence>fm2d2r</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND</xnat:imageType>
+<xnat:scanSequence>GR</xnat:scanSequence>
+<xnat:seqVariant>SP</xnat:seqVariant>
+<xnat:acqType>2D</xnat:acqType>
+<xnat:addParam name="MultiEcho_TE1">4.92</xnat:addParam>
+<xnat:addParam name="MultiEcho_TE2">7.38</xnat:addParam>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="7" type="field_map_DTI" UID="1.3.12.2.1107.5.2.32.35390.121131510377095583191261.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>field_map_DTI</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>58</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/7/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/7/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="2.0" y="2.0" z="2.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="128" y="128"/>
+<xnat:tr>700.0</xnat:tr>
+<xnat:te>7.38</xnat:te>
+<xnat:flip>60</xnat:flip>
+<xnat:sequence>fm2d2r</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\P\ND</xnat:imageType>
+<xnat:scanSequence>GR</xnat:scanSequence>
+<xnat:seqVariant>SP</xnat:seqVariant>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="8" type="DTI" UID="1.3.12.2.1107.5.2.32.35390.179331009659989333847008.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>DTI</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>76</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/8/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="TXT" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/8/TXT/TXT_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/8/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="2.0" y="2.0" z="2.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="1024" y="1024"/>
+<xnat:tr>10000.0</xnat:tr>
+<xnat:te>91.0</xnat:te>
+<xnat:flip>90</xnat:flip>
+<xnat:imageType>ORIGINAL\PRIMARY\DIFFUSION\NONE\ND\NORM\MOSAIC</xnat:imageType>
+<xnat:scanSequence>EP</xnat:scanSequence>
+<xnat:seqVariant>SK\SP</xnat:seqVariant>
+<xnat:scanOptions>FS</xnat:scanOptions>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="9" type="DTI_CAP" UID="1.3.12.2.1107.5.2.32.35390.2863428325399202085222180.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>DTI_CAP</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>7</xnat:frames>
+<xnat:file label="NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/9/NIFTI/NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="TXT" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/9/TXT/TXT_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/9/DICOM/DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="1.375" y="1.375" z="3.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="1120" y="1120"/>
+<xnat:tr>6200.0</xnat:tr>
+<xnat:te>85.0</xnat:te>
+<xnat:flip>90</xnat:flip>
+<xnat:imageType>ORIGINAL\PRIMARY\DIFFUSION\NONE\ND\NORM\MOSAIC</xnat:imageType>
+<xnat:scanSequence>EP</xnat:scanSequence>
+<xnat:seqVariant>SK\SP</xnat:seqVariant>
+<xnat:scanOptions>PFP\FS</xnat:scanOptions>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="10" type="PD" UID="1.3.12.2.1107.5.2.32.35390.6742006863896652702978943.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>PD</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>72</xnat:frames>
+<xnat:file label="DEFACED_NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/10/DEFACED_NIFTI/DEFACED_NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DEFACED_DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/10/DEFACED_DICOM/DEFACED_DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="1.0" y="1.0" z="2.0"/>
+<xnat:orientation>Tra</xnat:orientation>
+<xnat:fov x="256" y="256"/>
+<xnat:tr>7000.0</xnat:tr>
+<xnat:te>11.0</xnat:te>
+<xnat:flip>180</xnat:flip>
+<xnat:sequence>tseR2d1_3</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND\NORM</xnat:imageType>
+<xnat:scanSequence>SE</xnat:scanSequence>
+<xnat:seqVariant>SK\SP</xnat:seqVariant>
+<xnat:acqType>2D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+<xnat:scan ID="11" type="MPRAGE" UID="1.3.12.2.1107.5.2.32.35390.2933932081987731791402318.0.0.0" xsi:type="xnat:mrScanData">
+<xnat:image_session_ID>NITRC_IR_E04973</xnat:image_session_ID>
+<xnat:quality>usable</xnat:quality>
+<xnat:series_description>MPRAGE</xnat:series_description>
+<xnat:scanner manufacturer="SIEMENS" model="TrioTim">MRC35390</xnat:scanner>
+<xnat:frames>192</xnat:frames>
+<xnat:file label="DEFACED_NIFTI" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/11/DEFACED_NIFTI/DEFACED_NIFTI_catalog.xml" content="RAW" xsi:type="xnat:resourceCatalog"/>
+<xnat:file label="DEFACED_DICOM" URI="/export/xnat/archive/nki_rockland/arc001/MR_1264721_41eb/SCANS/11/DEFACED_DICOM/DEFACED_DICOM_catalog.xml" xsi:type="xnat:resourceCatalog"/>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+<xnat:parameters>
+<xnat:voxelRes x="1.0" y="1.0" z="1.0"/>
+<xnat:orientation>Sag</xnat:orientation>
+<xnat:fov x="256" y="256"/>
+<xnat:tr>2500.0</xnat:tr>
+<xnat:te>3.5</xnat:te>
+<xnat:ti>1200.0</xnat:ti>
+<xnat:flip>8</xnat:flip>
+<xnat:sequence>tfl3d1_ns</xnat:sequence>
+<xnat:imageType>ORIGINAL\PRIMARY\M\ND\NORM</xnat:imageType>
+<xnat:scanSequence>GR\IR</xnat:scanSequence>
+<xnat:seqVariant>SP\MP</xnat:seqVariant>
+<xnat:scanOptions>IR</xnat:scanOptions>
+<xnat:acqType>3D</xnat:acqType>
+</xnat:parameters>
+</xnat:scan>
+</xnat:scans>
+<xnat:dcmPatientId>MR_1264721_41eb</xnat:dcmPatientId>
+<xnat:dcmPatientName>1264721</xnat:dcmPatientName>
+<xnat:fieldStrength>3</xnat:fieldStrength>
+</xnat:experiment>
+</xnat:experiments>
+</xnat:Subject>
